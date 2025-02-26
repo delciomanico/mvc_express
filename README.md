@@ -1,9 +1,9 @@
 # mvc_express
 
-# 🚀 Gerador Automático de Model, Controller e Rotas para Express + MongoDB  
+# 🚀 Gerador Automático de Model, Controller para Express + MongoDB  
 
 > **Automatize a criação de estrutura MVC no seu backend Node.js com apenas um comando!**  
-> Este script CLI gera automaticamente **Model, Controller e Rotas** para facilitar o desenvolvimento de APIs com **Express e Mongoose**.
+> Este script CLI gera automaticamente **Model e Controller** para facilitar o desenvolvimento de APIs com **Express e Mongoose**.
 
 ---
 
@@ -21,12 +21,11 @@
 ---
 
 ## 📜 **Sobre o Projeto**
-Criar **modelos, controladores e rotas manualmente** no Express pode ser repetitivo. Este script automatiza essa tarefa, gerando toda a estrutura do backend em **segundos** com um simples comando.  
+Criar **modelos e controladores manualmente** no Express pode ser repetitivo. Este script automatiza essa tarefa, gerando toda a estrutura do backend em **segundos** com um simples comando.  
 
 **✅ O que ele faz?**  
 - Cria automaticamente o **Model (Mongoose)**  
 - Cria o **Controller (CRUD básico)**  
-- Cria as **Rotas REST** (GET, POST, PUT, DELETE)  
 
 **🔹 Para quem é destinado?**  
 - Desenvolvedores que trabalham com **Node.js, Express e MongoDB**  
@@ -36,7 +35,7 @@ Criar **modelos, controladores e rotas manualmente** no Express pode ser repetit
 ---
 
 ## 🎥 **Demonstração**
-Criação automática de uma estrutura **Model-Controller-Routes** com o script CLI:  
+Criação automática de uma estrutura **Model-Controller** com o script CLI:  
 
 ```sh
-node generateMVC.js -mc Usuario
+node mvc_express.js -mc <nome>
