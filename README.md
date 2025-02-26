@@ -72,8 +72,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou pull
 Este projeto está sob a Licença MIT – veja o arquivo LICENSE para mais detalhes.
 
 ## 📬 **Contato**
-🔗 Conecte-se comigo no LinkedIn : [delciomonarca](www.linkedin.com/in/délcio-dulo-b74115249).
-🔗 Conecte-se comigo no Instagram : [delciomonarca](https://www.instagram.com/delciomonarca/).
-📧 E-mail: delciomanico2003@gmail.com.
+- 🔗 Conecte-se comigo no LinkedIn : [delciomonarca](www.linkedin.com/in/délcio-dulo-b74115249).
+- 🔗 Conecte-se comigo no Instagram : [delciomonarca](https://www.instagram.com/delciomonarca/).
+- 📧 E-mail: delciomanico2003@gmail.com.
 
 
