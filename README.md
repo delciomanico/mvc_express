@@ -62,11 +62,11 @@ node mvc_express.js -mc <nome>
 ## 🛠 **Contribuindo**
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou pull request .
 
-1️⃣ Fork o repositório.
-2️⃣ Crie uma branch com seu feature ( git checkout -b minha-feature).
-3️⃣ Commit suas mudanças ( git commit -m 'Adicionei minha feature').
-4️⃣ Push para uma branch ( git push origin minha-feature).
-5️⃣ Abra um Pull Request 🚀.
+- 1️⃣ Fork o repositório.
+- 2️⃣ Crie uma branch com seu feature ( git checkout -b minha-feature).
+- 3️⃣ Commit suas mudanças ( git commit -m 'Adicionei minha feature').
+- 4️⃣ Push para uma branch ( git push origin minha-feature).
+- 5️⃣ Abra um Pull Request 🚀.
 
 ## 📜 **Licença**
 Este projeto está sob a Licença MIT – veja o arquivo LICENSE para mais detalhes.
